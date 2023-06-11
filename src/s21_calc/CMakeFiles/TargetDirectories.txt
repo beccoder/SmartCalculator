@@ -1,0 +1,4 @@
+/Users/alfonzoj/calc/src/s21_calc/CMakeFiles/Calculator.dir
+/Users/alfonzoj/calc/src/s21_calc/CMakeFiles/edit_cache.dir
+/Users/alfonzoj/calc/src/s21_calc/CMakeFiles/rebuild_cache.dir
+/Users/alfonzoj/calc/src/s21_calc/CMakeFiles/Calculator_autogen.dir
